@@ -34,4 +34,6 @@ credits page:
 
 4.) Tilemaps: It's a map made from 69 pieces of tiles and it contains a pool, mountains and a bit of green land.
 
+<img width="318" alt="Tilemaps" src="https://user-images.githubusercontent.com/56968440/95655417-c3677e80-0b24-11eb-9dc7-4692f48d082d.PNG">
+
 
