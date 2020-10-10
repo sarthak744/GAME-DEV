@@ -29,4 +29,7 @@ One of the levels:
 
 credits page:
 
+<img width="412" alt="credits" src="https://user-images.githubusercontent.com/56968440/95655307-eba2ad80-0b23-11eb-93d1-dae084c580ba.PNG">
+
+
 
