@@ -38,6 +38,8 @@ credits page:
 
 5.) 2d shooting game: 
 
+<img width="550" alt="2d shooting" src="https://user-images.githubusercontent.com/56968440/98774288-ba621980-2410-11eb-8cd7-006bbf10dcdd.PNG">
+
 
 
 
