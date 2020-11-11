@@ -40,6 +40,8 @@ credits page:
 
 <img width="550" alt="2d shooting" src="https://user-images.githubusercontent.com/56968440/98774288-ba621980-2410-11eb-8cd7-006bbf10dcdd.PNG">
 
+Here is the drive link for the rest of the gameplay videos and screen shots : https://drive.google.com/drive/folders/1CALUtVRPEXSpoZnGZ9Sau8xOOG2Egiao
+
 
 
 
