@@ -1,7 +1,7 @@
 # GAME-DEV
 Awesome games inside!!!!
 
-Here are some of the in-game footages of Mayan temple, Navmesh, Cuberush and Tilemaps:
+Here are some of the in-game footages of Mayan temple, Navmesh, Cuberush, Tilemaps, 2d shooting game:
 
 1.) 3-d Model of Mayan temple: 
 
@@ -35,5 +35,9 @@ credits page:
 4.) Tilemaps: It's a map made from 69 pieces of tiles and it contains a pool, mountains and a bit of green land.
 
 <img width="318" alt="Tilemaps" src="https://user-images.githubusercontent.com/56968440/95655417-c3677e80-0b24-11eb-9dc7-4692f48d082d.PNG">
+
+5.) 2d shooting game: 
+
+
 
 
